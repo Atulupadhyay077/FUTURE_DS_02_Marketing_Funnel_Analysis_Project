@@ -2,7 +2,7 @@
 
 This project analyzes customer behavior across the marketing funnel to identify conversion bottlenecks, optimize campaign performance, and improve overall business growth. Using data analytics techniques, the analysis tracks users from awareness to final purchase, providing actionable insights that help increase conversion rates and marketing ROI.
 
-Objective:
+💡 Objective:
 
 The primary goal of this project is to:
 
@@ -17,7 +17,7 @@ Evaluate campaign effectiveness.
 Generate data-driven recommendations to improve conversions.
 
 
-Tools & Technologies:
+🛠️ Tools & Technologies:
 
 Python
 
@@ -36,7 +36,7 @@ SQL (Optional)
 Power BI / Tableau (Optional)
 
 
-Key Analysis:
+🔑 Key Analysis:
 
 Funnel Stage Conversion Analysis
 
@@ -52,7 +52,7 @@ Revenue & Conversion Metrics
 
 Data Cleaning & Exploratory Data Analysis (EDA)
 
-Key Insights:
+🗝️ Key Insights:
 
 Identified stages with the highest customer drop-off.
 
