@@ -1,0 +1,6 @@
+Stage,Entered,Passed Through,Lost,Drop-off Rate (%)
+Impressions -> Clicks,8081931,349856,7732075,95.67
+Clicks -> Leads,349856,96717,253139,72.36
+Leads -> Qualified Leads,96717,56240,40477,41.85
+Qualified Leads -> Sales Calls,56240,43422,12818,22.79
+Sales Calls -> Customers,43422,15435,27987,64.45
